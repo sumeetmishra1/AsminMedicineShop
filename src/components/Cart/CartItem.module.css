@@ -1,0 +1,20 @@
+li{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium';
+    font-weight: bold;
+    
+}
+span{
+    margin-left: 0;
+}
+.name{
+    color: crimson;
+    float: left;
+}
+.price{
+    margin-left: 50px;
+ position: sticky;
+}
+.quantity{
+    float: right;
+}

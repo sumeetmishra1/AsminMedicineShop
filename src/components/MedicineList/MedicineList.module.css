@@ -1,0 +1,10 @@
+table{
+    width: 80%;
+    text-align: center
+}
+thead {
+    background-color: #04AA6D;
+    color: white;
+    margin-bottom: 5px;
+  }
+  

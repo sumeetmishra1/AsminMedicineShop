@@ -1,0 +1,20 @@
+ul{
+    list-style: none;
+}
+.btn{
+    display: flex;
+    float:right;
+}
+h2{
+    display: inline;
+    margin-left: 5px;
+}
+.btn button{
+    background-color: rgb(8, 174, 19);
+    margin: 5px;
+    font-family: monospace;
+    padding: 4px 4px;
+    border-radius: 4px;
+    font-size: large;
+    color: white;
+}
